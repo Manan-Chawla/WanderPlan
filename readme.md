@@ -25,3 +25,14 @@ No login/registration, no external database — everything runs on local JSON fi
 | **Safety Dashboard** | Reads `alerts.json` to display Safe / Warning / Danger status per destination. |
 | **Interactive Map** | Leaflet.js + OpenStreetMap showing destination markers, hotel markers, and simulated travel routes (polylines) since no routing API is used. |
 | **Taxi Pool Matcher** | Matches the user against sample travelers in `travelers.json` heading to the same destination within a 20-minute window, then estimates shared savings and CO₂ reduction. |
+
+
+
+## **Tech Stack**
+
+- **Frontend:** HTML5, CSS3 (Glassmorphism + gradients), Vanilla JS, Bootstrap 5, Google Fonts (Poppins), Font Awesome
+- **Backend:** Python Flask
+- **Maps:** Leaflet.js + OpenStreetMap tiles
+- **Weather:** OpenWeatherMap API
+- **Data storage:** Local JSON files (no MongoDB/MySQL/PostgreSQL)
+- **Auth:** None (by design — no login/registration)
