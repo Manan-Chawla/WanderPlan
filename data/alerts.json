@@ -1,0 +1,38 @@
+{
+  "Jaipur": {
+    "status": "Safe",
+    "message": "No active alerts. City is calm and tourist-friendly."
+  },
+  "Delhi": {
+    "status": "Warning",
+    "message": "Moderate air pollution levels reported. Sensitive travelers should carry masks."
+  },
+  "Agra": {
+    "status": "Safe",
+    "message": "No active alerts. Ideal conditions for sightseeing."
+  },
+  "Shimla": {
+    "status": "Warning",
+    "message": "Landslide risk in outer areas due to recent rainfall. Avoid remote routes."
+  },
+  "Manali": {
+    "status": "Danger",
+    "message": "Heavy snowfall expected. Rohtang Pass route closed until further notice."
+  },
+  "Udaipur": {
+    "status": "Safe",
+    "message": "No active alerts. Lake activities operating normally."
+  },
+  "Jaisalmer": {
+    "status": "Warning",
+    "message": "Extreme heat advisory. Avoid desert safaris between 12 PM - 4 PM."
+  },
+  "Goa": {
+    "status": "Safe",
+    "message": "No active alerts. Beaches open with normal tidal activity."
+  },
+  "Mumbai": {
+    "status": "Warning",
+    "message": "Heavy traffic congestion reported due to monsoon waterlogging in low-lying areas."
+  }
+}
