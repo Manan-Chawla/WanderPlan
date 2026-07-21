@@ -1,0 +1,146 @@
+{
+  "Jaipur": {
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "description": "The Pink City, famous for its majestic forts, royal palaces and vibrant bazaars. A perfect blend of history and culture in the heart of Rajasthan.",
+    "category": "Heritage",
+    "hotel": { "name": "Pink City Heritage Hotel", "lat": 26.9155, "lon": 75.8189 },
+    "attractions": [
+      { "name": "Amber Fort", "type": "Heritage", "cost": 500 },
+      { "name": "Hawa Mahal", "type": "Heritage", "cost": 200 },
+      { "name": "City Palace", "type": "Heritage", "cost": 300 },
+      { "name": "Jal Mahal", "type": "Outdoor", "cost": 0 },
+      { "name": "Johari Bazaar", "type": "Shopping", "cost": 1000 },
+      { "name": "Albert Hall Museum", "type": "Museum", "cost": 150 },
+      { "name": "Chokhi Dhani", "type": "Restaurant", "cost": 800 }
+    ]
+  },
+  "Delhi": {
+    "lat": 28.6139,
+    "lon": 77.2090,
+    "description": "India's capital territory, a massive metropolitan blending Mughal-era monuments with modern infrastructure and diverse cuisine.",
+    "category": "Heritage",
+    "hotel": { "name": "Capital Grand Hotel", "lat": 28.6304, "lon": 77.2177 },
+    "attractions": [
+      { "name": "Red Fort", "type": "Heritage", "cost": 500 },
+      { "name": "India Gate", "type": "Outdoor", "cost": 0 },
+      { "name": "Qutub Minar", "type": "Heritage", "cost": 600 },
+      { "name": "Lotus Temple", "type": "Heritage", "cost": 0 },
+      { "name": "Chandni Chowk", "type": "Shopping", "cost": 700 },
+      { "name": "National Museum", "type": "Museum", "cost": 200 },
+      { "name": "Karim's Restaurant", "type": "Restaurant", "cost": 600 }
+    ]
+  },
+  "Agra": {
+    "lat": 27.1767,
+    "lon": 78.0081,
+    "description": "Home of the iconic Taj Mahal, Agra is a treasure trove of Mughal architecture and rich historical legacy.",
+    "category": "Heritage",
+    "hotel": { "name": "Taj View Hotel", "lat": 27.1751, "lon": 78.0421 },
+    "attractions": [
+      { "name": "Taj Mahal", "type": "Heritage", "cost": 1100 },
+      { "name": "Agra Fort", "type": "Heritage", "cost": 550 },
+      { "name": "Mehtab Bagh", "type": "Outdoor", "cost": 300 },
+      { "name": "Fatehpur Sikri", "type": "Heritage", "cost": 550 },
+      { "name": "Sadar Bazaar", "type": "Shopping", "cost": 600 },
+      { "name": "Agra Museum", "type": "Museum", "cost": 100 },
+      { "name": "Pinch of Spice", "type": "Restaurant", "cost": 700 }
+    ]
+  },
+  "Shimla": {
+    "lat": 31.1048,
+    "lon": 77.1734,
+    "description": "A colonial-era hill station nestled in the Himalayas, known for its cool climate, pine forests and colonial architecture.",
+    "category": "Hill Station",
+    "hotel": { "name": "Mall Road Resort", "lat": 31.1033, "lon": 77.1722 },
+    "attractions": [
+      { "name": "The Ridge", "type": "Outdoor", "cost": 0 },
+      { "name": "Mall Road", "type": "Shopping", "cost": 800 },
+      { "name": "Jakhoo Temple", "type": "Heritage", "cost": 0 },
+      { "name": "Kufri", "type": "Outdoor", "cost": 400 },
+      { "name": "State Museum Shimla", "type": "Museum", "cost": 100 },
+      { "name": "Christ Church", "type": "Heritage", "cost": 0 },
+      { "name": "Cafe Sol", "type": "Restaurant", "cost": 600 }
+    ]
+  },
+  "Manali": {
+    "lat": 32.2432,
+    "lon": 77.1892,
+    "description": "A picturesque hill town in Himachal Pradesh, popular for adventure sports, snow-capped mountains and lush valleys.",
+    "category": "Hill Station",
+    "hotel": { "name": "Riverside Manali Resort", "lat": 32.2396, "lon": 77.1887 },
+    "attractions": [
+      { "name": "Solang Valley", "type": "Outdoor", "cost": 1000 },
+      { "name": "Hadimba Temple", "type": "Heritage", "cost": 0 },
+      { "name": "Old Manali Market", "type": "Shopping", "cost": 700 },
+      { "name": "Rohtang Pass", "type": "Outdoor", "cost": 1200 },
+      { "name": "Manali Museum", "type": "Museum", "cost": 100 },
+      { "name": "Van Beach Cafe", "type": "Restaurant", "cost": 600 },
+      { "name": "Vashisht Hot Springs", "type": "Outdoor", "cost": 100 }
+    ]
+  },
+  "Udaipur": {
+    "lat": 24.5854,
+    "lon": 73.7125,
+    "description": "The City of Lakes, famous for its romantic lake palaces, ghats and vibrant Rajasthani culture.",
+    "category": "Heritage",
+    "hotel": { "name": "Lake Pichola Palace Hotel", "lat": 24.5764, "lon": 73.6835 },
+    "attractions": [
+      { "name": "City Palace Udaipur", "type": "Heritage", "cost": 400 },
+      { "name": "Lake Pichola", "type": "Outdoor", "cost": 400 },
+      { "name": "Jag Mandir", "type": "Heritage", "cost": 500 },
+      { "name": "Saheliyon Ki Bari", "type": "Outdoor", "cost": 50 },
+      { "name": "Hathi Pol Market", "type": "Shopping", "cost": 600 },
+      { "name": "Vintage Car Museum", "type": "Museum", "cost": 250 },
+      { "name": "Ambrai Restaurant", "type": "Restaurant", "cost": 900 }
+    ]
+  },
+  "Jaisalmer": {
+    "lat": 26.9157,
+    "lon": 70.9083,
+    "description": "The Golden City rising from the Thar Desert, known for its sandstone fort, havelis and desert safaris.",
+    "category": "Desert",
+    "hotel": { "name": "Golden Fort Haveli", "lat": 26.9126, "lon": 70.9129 },
+    "attractions": [
+      { "name": "Jaisalmer Fort", "type": "Heritage", "cost": 250 },
+      { "name": "Sam Sand Dunes", "type": "Outdoor", "cost": 1500 },
+      { "name": "Patwon Ki Haveli", "type": "Heritage", "cost": 200 },
+      { "name": "Gadisar Lake", "type": "Outdoor", "cost": 0 },
+      { "name": "Desert Market", "type": "Shopping", "cost": 500 },
+      { "name": "Desert Culture Museum", "type": "Museum", "cost": 100 },
+      { "name": "Desert Camp Restaurant", "type": "Restaurant", "cost": 1000 }
+    ]
+  },
+  "Goa": {
+    "lat": 15.2993,
+    "lon": 74.1240,
+    "description": "India's beach paradise, famous for golden sands, Portuguese heritage, vibrant nightlife and seafood.",
+    "category": "Beach",
+    "hotel": { "name": "Baga Beach Resort", "lat": 15.5553, "lon": 73.7517 },
+    "attractions": [
+      { "name": "Baga Beach", "type": "Outdoor", "cost": 0 },
+      { "name": "Basilica of Bom Jesus", "type": "Heritage", "cost": 0 },
+      { "name": "Anjuna Flea Market", "type": "Shopping", "cost": 700 },
+      { "name": "Fort Aguada", "type": "Heritage", "cost": 50 },
+      { "name": "Goa State Museum", "type": "Museum", "cost": 100 },
+      { "name": "Fisherman's Wharf", "type": "Restaurant", "cost": 1200 },
+      { "name": "Dudhsagar Falls", "type": "Outdoor", "cost": 600 }
+    ]
+  },
+  "Mumbai": {
+    "lat": 19.0760,
+    "lon": 72.8777,
+    "description": "The City of Dreams, India's financial capital known for Bollywood, colonial landmarks and bustling street life.",
+    "category": "Metropolitan",
+    "hotel": { "name": "Marine Drive Suites", "lat": 18.9440, "lon": 72.8235 },
+    "attractions": [
+      { "name": "Gateway of India", "type": "Heritage", "cost": 0 },
+      { "name": "Marine Drive", "type": "Outdoor", "cost": 0 },
+      { "name": "Colaba Causeway", "type": "Shopping", "cost": 900 },
+      { "name": "Chhatrapati Shivaji Museum", "type": "Museum", "cost": 300 },
+      { "name": "Elephanta Caves", "type": "Heritage", "cost": 600 },
+      { "name": "Leopold Cafe", "type": "Restaurant", "cost": 900 },
+      { "name": "Juhu Beach", "type": "Outdoor", "cost": 0 }
+    ]
+  }
+}
